@@ -7,4 +7,9 @@ NAMA KELOMPOK:
 4. JOHANSYAH
 5. DEPRIANSAH  
   
-tes update
+AKUN ADMIN  
+Username: admin  
+Password: admin  
+
+AKUN CUSTOMER
+Masih dalam tahap pengembangan
