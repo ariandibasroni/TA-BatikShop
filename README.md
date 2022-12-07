@@ -11,5 +11,5 @@ AKUN ADMIN
 Username: admin  
 Password: admin  
 
-AKUN CUSTOMER
+AKUN CUSTOMER  
 Masih dalam tahap pengembangan
