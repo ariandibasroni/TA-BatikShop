@@ -1,12 +1,14 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+    <!-- Required meta tags-->
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Colorlib Templates">
+    <meta name="author" content="Colorlib">
+    <meta name="keywords" content="Colorlib Templates">
 </head>
-<body>
-<h2 class="title">Sorry website while under development..</h2>
-</body>
-</html>
