@@ -14,3 +14,7 @@ Password: admin
 AKUN CUSTOMER  
 Masih dalam tahap pengembangan  
 
+LOGIN PELANGGAN
+Username: pelanggan1
+Password: pelanggan1
+
