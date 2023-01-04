@@ -12,5 +12,5 @@ Username: admin
 Password: admin  
 
 AKUN CUSTOMER  
-Username: pelanggan1
-Password: pelanggan1
+Username: pelanggan1  
+Password: pelanggan1  
