@@ -12,5 +12,5 @@ Username: admin
 Password: admin  
 
 AKUN CUSTOMER  
-Masih dalam tahap pengembangan  
-
+Username: pelanggan1
+Password: pelanggan1
